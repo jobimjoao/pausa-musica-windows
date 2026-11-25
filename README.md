@@ -21,7 +21,7 @@ O Windows mantém uma lista dos players que estão tocando: é o painel que apar
 ## Instalação
 
 ```bat
-git clone https://github.com/SEU-USUARIO/pausa-musica-windows.git
+git clone https://github.com/jobimjoao/pausa-musica-windows.git
 cd pausa-musica-windows
 instalar.bat
 ```
